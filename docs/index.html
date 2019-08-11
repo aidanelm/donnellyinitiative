@@ -2,12 +2,39 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <link rel="stylesheet" href="main.css" />
-    <title>Project Title</title>
+    <link rel="stylesheet" href="css/site.css" />
+    <link rel="stylesheet" href="css/main.css" />
+    <title>The Donnelly Initiative</title>
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:400,600&display=swap" rel="stylesheet">
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
 </head>
 <body>
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+        <a class="navbar-brand" href="../docs/index.html">The Donnelly Initiative</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav mr-auto">
+                <li class="nav-item">
+                    <a class="nav-link" href="#">About</a>
+                </li>
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        Projects
+                    </a>
+                    <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                        <a class="dropdown-item" href="#">Project 1</a>
+                        <a class="dropdown-item" href="#">Project 2</a>
+                        <div class="dropdown-divider"></div>
+                        <a class="dropdown-item" href="#">GitHub Repository</a>
+                    </div>
+                </li>
+            </ul>
+        </div>
+    </nav>
     <div class="jumbotron container-fluid mainJumbotron">
         <h1>Main Title</h1>
         <hr />
@@ -15,6 +42,12 @@
     </div>
     <h1>Hello, world!</h1>
     <p>update</p>
+
+    <footer>
+        <div class="container-fluid">
+            <p>Copyright &copy; <script type="text/javascript">document.write(new Date().getFullYear());</script> Aidan Elm. <a href="#"><strong>License</strong></a></p>
+        </div>
+    </footer>
 
     <!-- Tensorflow JS -->
     <script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs@1.0.0/dist/tf.min.js"></script>
