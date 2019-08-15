@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\docs"
+    "\\docs",
+    "\\docs\\css"
   ],
-  "SelectedNode": "\\docs\\images",
+  "SelectedNode": "\\LICENSE",
   "PreviewInSolutionExplorer": false
 }
