@@ -8,6 +8,7 @@ Click [here](https://aidanelm.github.io/donnellyinitiative) to view this project
 1. [Dependencies] #dependencies
 
 <a name="dependencies" />
+
 # Dependencies
 
 ### Tensorflow
