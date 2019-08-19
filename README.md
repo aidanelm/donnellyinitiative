@@ -10,3 +10,11 @@ table of contents
 # Dependencies
 
 ### Tensorflow
+
+Tensorflow is required for use of the "identification" directory, which uses machine learning to identify an adenocarcinoma on a CT scan.
+
+```
+
+$ pip install tensorflow
+
+```
