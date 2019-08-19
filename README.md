@@ -1,4 +1,11 @@
 # The Donnelly Initiative
-Using Python to enhance research and prevention for pancreatic cancer.
-#Table of Contents
-#Dependencies
+
+Using Python to enhance prevention and identification of pancreatic adenocarcinomas.
+
+## Table of Contents
+
+table of contents
+
+##Dependencies
+
+Tensorflow
