@@ -5,8 +5,9 @@ Click [here](https://aidanelm.github.io/donnellyinitiative) to view this project
 
 # Table of Contents
 
-table of contents
+1. [Dependencies] #dependencies
 
+<a name="dependencies" />
 # Dependencies
 
 ### Tensorflow
