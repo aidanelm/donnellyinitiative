@@ -8,6 +8,7 @@ Click [here](https://aidanelm.github.io/donnellyinitiative) to view this project
 * [Dependencies](#dependencies)
 
 <a name="dependencies"/>
+
 # Dependencies
 
 ### Tensorflow
@@ -19,15 +20,3 @@ Tensorflow is required for use of the "identification" directory, which uses mac
 $ pip install tensorflow
 
 ```
-
-
-
-
-It is nicely demonstrated in the Table of Contents of the Markdown Cheatsheet.
-
-##### Table of Contents  
-[Headers](#headers)  
-[Emphasis](#emphasis)  
-...snip...    
-<a name="headers"/>
-## Headers
