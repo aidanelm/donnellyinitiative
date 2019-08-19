@@ -5,7 +5,7 @@ Click [here](https://aidanelm.github.io/donnellyinitiative) to view this project
 
 # Table of Contents
 
-* [Dependencies] (#-dependencies)
+[Dependencies] (#-dependencies)
 
 # Dependencies
 
