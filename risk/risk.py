@@ -1,2 +1,3 @@
-import tkinter as tk
-print(tk.TkVersion)
+import tkinter as tk 
+window = tk.Tk()
+window.title("Risk Calculator")
