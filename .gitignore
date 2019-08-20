@@ -3,6 +3,9 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
+#Added by Aidan
+*slnx.sqlite
+
 # User-specific files
 *.suo
 *.user
