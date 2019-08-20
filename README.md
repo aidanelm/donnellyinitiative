@@ -29,6 +29,14 @@ Tensorflow is required for use of the "identification" directory, which uses mac
 $ pip install tensorflow
 
 ```
+To check if TensorFlow is installed, run:
+
+```
+
+import tensorflow as tf
+print(tf.version)
+
+```
 
 For more instructions on how to install TensorFlow, click [here](https://www.tensorflow.org/install).
 
