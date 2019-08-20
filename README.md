@@ -5,9 +5,16 @@ Click [here](https://aidanelm.github.io/donnellyinitiative) to view this project
 
 # Table of Contents
 
+* [License](#license)
 * [Dependencies](#dependencies)
 * [Identification](#identification)
 * [Risk Calculator](#risk)
+
+<a name="license"/>
+
+# License
+
+By using this software, you agree to the terms and conditions outlined in the [License](https://github.com/aidanelm/donnellyinitiative/blob/master/LICENSE).
 
 <a name="dependencies"/>
 
