@@ -30,6 +30,8 @@ $ pip install tensorflow
 
 ```
 
+For more instructions on how to install TensorFlow, click [here](https://www.tensorflow.org/install).
+
 <a name="identification"/>
 
 # Identification
