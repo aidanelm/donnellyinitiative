@@ -6,6 +6,8 @@ Click [here](https://aidanelm.github.io/donnellyinitiative) to view this project
 # Table of Contents
 
 * [Dependencies](#dependencies)
+* [Identification](#identification)
+* [Risk Calculator](#risk)
 
 <a name="dependencies"/>
 
@@ -20,3 +22,12 @@ Tensorflow is required for use of the "identification" directory, which uses mac
 $ pip install tensorflow
 
 ```
+
+<a name="identification"/>
+
+# Identification
+
+
+<a name="risk"/>
+
+# Risk Calculator
