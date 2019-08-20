@@ -38,6 +38,18 @@ print(tf.version)
 
 ```
 
+
+### Tkinter
+
+Tkinter is bundled with most distributions of Python, so you most likely have it already installed. To make sure, run:
+
+```
+
+import tkinter as tk
+print(tk.TkVersion)
+
+```
+
 For more instructions on how to install TensorFlow, click [here](https://www.tensorflow.org/install).
 
 <a name="identification"/>
