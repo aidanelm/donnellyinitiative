@@ -38,6 +38,7 @@ print(tf.version)
 
 ```
 
+For more instructions on how to install TensorFlow, click [here](https://www.tensorflow.org/install).
 
 ### Tkinter
 
@@ -50,7 +51,7 @@ print(tk.TkVersion)
 
 ```
 
-For more instructions on how to install TensorFlow, click [here](https://www.tensorflow.org/install).
+For more information about Tkinter, visit a tutorial website [here](https://tkdocs.com/tutorial/install.html).
 
 <a name="identification"/>
 
