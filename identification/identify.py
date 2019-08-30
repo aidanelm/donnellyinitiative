@@ -1,4 +1,12 @@
 import tensorflow as tf
-import tkinter as tk
-window = tk.Tk()
+from tkinter import *
+ 
+window = Tk()
+
 window.title("Identification of Tumor")
+
+lbl = Label(window, text="Hello")
+ 
+lbl.grid(column=0, row=0)
+ 
+window.mainloop()
