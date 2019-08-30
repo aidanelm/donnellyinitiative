@@ -42,7 +42,7 @@ For more instructions on how to install TensorFlow, click [here](https://www.ten
 
 ### Tkinter
 
-Tkinter is bundled with most distributions of Python, so you most likely have it already installed. To make sure, run:
+The Tkinter GUI toolkit is bundled with most distributions of Python, so you most likely have it already installed. To make sure, run:
 
 ```
 
