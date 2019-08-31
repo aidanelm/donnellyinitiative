@@ -80,7 +80,7 @@ def calculate():
         calculated_risk += 1
     
     if is_obese_get == 1:
-        calculated_risk += 1
+        calculated_risk += 2
 
     if has_pancreatitis_get == 1:
         calculated_risk += 1
