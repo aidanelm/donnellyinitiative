@@ -2,6 +2,8 @@ from tkinter import *
 from math import *
 main = Tk()
 main.title('Risk Calculator')
+#favicon
+main.call('wm', 'iconphoto', main._w, PhotoImage(file='images/tdiFavicon.png'))
 
 #variables
 is_male = IntVar()
