@@ -121,7 +121,10 @@ def calculate():
     if has_MEN1_get == 1:
         calculated_risk += 1
 
-    blank.insert(0, calculated_risk)
+    final_risk = round(int(calculated_risk) / 22, 2)
+
+
+    blank.insert(0, final_risk)
 
 #description of data input
 Label(main, text = "Enter your age:").grid(row=0)
