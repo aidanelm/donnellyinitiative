@@ -1,12 +1,16 @@
 import tensorflow as tf
 from tkinter import *
+from upload import upload_image
  
-window = Tk()
+#window
+main = Tk()
+main.title('Identification of Tumor')
+#favicon
+main.call('wm', 'iconphoto', main._w, PhotoImage(file='images/tdiFavicon.png'))
 
-window.title("Identification of Tumor")
+#open file
+Button(main, text='Upload Photo', command=upload_image).grid(row=0)
 
-lbl = Label(window, text="Hello")
- 
-lbl.grid(column=0, row=0)
- 
-window.mainloop()
+Label(main, text = "Select your gender:").grid(row=1)
+
+mainloop()

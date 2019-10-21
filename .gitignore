@@ -5,6 +5,7 @@
 
 #Added by Aidan
 *slnx.sqlite
+*.pyc
 
 # User-specific files
 *.suo
