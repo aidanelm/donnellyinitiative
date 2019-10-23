@@ -40,10 +40,6 @@ print(tf.version)
 
 For more instructions on how to install TensorFlow, click [here](https://www.tensorflow.org/install).
 
-### Keras
-
-### CX_Freeze
-
 ### Tkinter
 
 The Tkinter GUI toolkit is bundled with most distributions of Python, so you most likely have it already installed. To make sure, run:
