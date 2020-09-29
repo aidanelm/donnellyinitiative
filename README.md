@@ -20,6 +20,10 @@ By using this software, you agree to the terms and conditions outlined in the [L
 
 # Dependencies
 
+## Python
+
+The version of TensorFlow that DeepCT uses is incompatible with Python versions 3.7 and newer. The latest version of Python 3.6 is recommended.
+
 ## TensorFlow
 
 Google's open-source machine learning library. DeepCT uses the TensorFlow framework.
