@@ -27,6 +27,9 @@ import PIL
 main = Tk()
 main.title('DeepCT')
 
+# Favicon
+main.iconbitmap('images/favicon.ico')
+
 # Variables for status of image and model
 is_image = False
 is_model = False
