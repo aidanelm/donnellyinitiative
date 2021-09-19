@@ -1,5 +1,7 @@
 # DeepCT
 
+Note: This is a legacy project. Python versions 3.7+ and Tensorflow versions 1.11+ are not supported with this software.
+
 Using Python to classify DICOM computerized tomography images. Uses the TensorFlow framework.
 To install dependencies, make sure that [pip](https://pip.pypa.io/en/stable/installing/) is running on your system.
 
